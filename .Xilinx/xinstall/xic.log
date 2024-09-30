@@ -521,3 +521,97 @@ k.e: UnknownHostException/NoRouteToHostException: http://www.xilinx.com/direct/s
 2024-08-17 00:52:49,610 DEBUG:?:? - Download to C:\Users\Sudha\AppData\Local\Temp\1723836169600\installClientInfo.dat
 2024-08-17 00:52:49,620 DEBUG:?:? - File not exists or incomplete file C:\Users\Sudha\AppData\Local\Temp\1723836169600\installClientInfo.dat,  deleting and starting download from scratch.
 2024-08-17 00:52:49,640 DEBUG:?:? - http download: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-08-18 23:21:36,965 DEBUG:?:? - data\dynamic_resource_bundle.properties, does not exist
+2024-08-18 23:21:37,145 DEBUG:?:? - Starting to listen
+2024-08-18 23:21:37,645 DEBUG:?:? - Could not auto detect proxy settings
+2024-08-18 23:21:37,645 DEBUG:?:? - XILINX_URL is set to  http://www.xilinx.com/direct/swhelp
+2024-08-18 23:21:37,655 DEBUG:?:? - Will download http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-08-18 23:21:37,655 DEBUG:?:? - Download to C:\Users\Sudha\AppData\Local\Temp\1724003497645\installClientInfo.dat
+2024-08-18 23:21:37,655 DEBUG:?:? - File not exists or incomplete file C:\Users\Sudha\AppData\Local\Temp\1724003497645\installClientInfo.dat,  deleting and starting download from scratch.
+2024-08-18 23:21:37,665 DEBUG:?:? - http download: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-08-21 18:47:21,099 DEBUG:?:? - data\dynamic_resource_bundle.properties, does not exist
+2024-08-21 18:47:21,339 DEBUG:?:? - Starting to listen
+2024-08-21 18:47:21,599 DEBUG:?:? - Could not auto detect proxy settings
+2024-08-21 18:47:21,599 DEBUG:?:? - XILINX_URL is set to  http://www.xilinx.com/direct/swhelp
+2024-08-21 18:47:21,609 DEBUG:?:? - Will download http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-08-21 18:47:21,609 DEBUG:?:? - Download to C:\Users\Sudha\AppData\Local\Temp\1724246241599\installClientInfo.dat
+2024-08-21 18:47:21,609 DEBUG:?:? - File not exists or incomplete file C:\Users\Sudha\AppData\Local\Temp\1724246241599\installClientInfo.dat,  deleting and starting download from scratch.
+2024-08-21 18:47:21,629 DEBUG:?:? - http download: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-08-21 18:47:21,639 DEBUG:?:? - Checking error to find out what to do with it.
+k.e: UnknownHostException/NoRouteToHostException: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+	at k.l.l(Unknown Source)
+	at k.l.c(Unknown Source)
+	at k.b.m(Unknown Source)
+	at k.b.b(Unknown Source)
+	at k.b.h(Unknown Source)
+	at com.xilinx.xic.R.run(Unknown Source)
+2024-08-21 18:47:21,639 ERROR:?:? - UnknownHostException/NoRouteToHostException: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-08-21 18:47:21,639 DEBUG:?:? - Unknown host exception: Proxy host is null!
+2024-08-21 18:47:21,649 DEBUG:?:? - Reset proxy to direct connect
+2024-08-21 18:47:21,649 DEBUG:?:? - Download to C:\Users\Sudha\AppData\Local\Temp\1724246241649\installClientInfo.dat
+2024-08-21 18:47:21,649 DEBUG:?:? - File not exists or incomplete file C:\Users\Sudha\AppData\Local\Temp\1724246241649\installClientInfo.dat,  deleting and starting download from scratch.
+2024-08-21 18:47:21,649 DEBUG:?:? - http download: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-08-21 18:47:21,649 DEBUG:?:? - Checking error to find out what to do with it.
+k.e: UnknownHostException/NoRouteToHostException: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+	at k.l.l(Unknown Source)
+	at k.l.c(Unknown Source)
+	at k.b.m(Unknown Source)
+	at k.b.a(Unknown Source)
+	at k.b.h(Unknown Source)
+	at com.xilinx.xic.R.run(Unknown Source)
+2024-08-21 18:47:21,649 ERROR:?:? - UnknownHostException/NoRouteToHostException: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-08-23 01:18:18,863 DEBUG:?:? - data\dynamic_resource_bundle.properties, does not exist
+2024-08-23 01:18:19,083 DEBUG:?:? - Starting to listen
+2024-08-23 01:18:19,383 DEBUG:?:? - Could not auto detect proxy settings
+2024-08-23 01:18:19,383 DEBUG:?:? - XILINX_URL is set to  http://www.xilinx.com/direct/swhelp
+2024-08-23 01:18:19,393 DEBUG:?:? - Will download http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-08-23 01:18:19,393 DEBUG:?:? - Download to C:\Users\Sudha\AppData\Local\Temp\1724356099383\installClientInfo.dat
+2024-08-23 01:18:19,393 DEBUG:?:? - File not exists or incomplete file C:\Users\Sudha\AppData\Local\Temp\1724356099383\installClientInfo.dat,  deleting and starting download from scratch.
+2024-08-23 01:18:19,423 DEBUG:?:? - http download: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-08-23 22:33:09,123 DEBUG:?:? - data\dynamic_resource_bundle.properties, does not exist
+2024-08-23 22:33:09,453 DEBUG:?:? - Starting to listen
+2024-08-23 22:33:09,843 DEBUG:?:? - Could not auto detect proxy settings
+2024-08-23 22:33:09,863 DEBUG:?:? - XILINX_URL is set to  http://www.xilinx.com/direct/swhelp
+2024-08-23 22:33:09,871 DEBUG:?:? - Will download http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-08-23 22:33:09,871 DEBUG:?:? - Download to C:\Users\Sudha\AppData\Local\Temp\1724432589843\installClientInfo.dat
+2024-08-23 22:33:09,873 DEBUG:?:? - File not exists or incomplete file C:\Users\Sudha\AppData\Local\Temp\1724432589843\installClientInfo.dat,  deleting and starting download from scratch.
+2024-08-23 22:33:09,893 DEBUG:?:? - http download: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-08-23 22:33:09,903 DEBUG:?:? - Checking error to find out what to do with it.
+k.e: UnknownHostException/NoRouteToHostException: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+	at k.l.l(Unknown Source)
+	at k.l.c(Unknown Source)
+	at k.b.m(Unknown Source)
+	at k.b.b(Unknown Source)
+	at k.b.h(Unknown Source)
+	at com.xilinx.xic.R.run(Unknown Source)
+2024-08-23 22:33:09,903 ERROR:?:? - UnknownHostException/NoRouteToHostException: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-08-23 22:33:09,903 DEBUG:?:? - Unknown host exception: Proxy host is null!
+2024-08-23 22:33:09,913 DEBUG:?:? - Reset proxy to direct connect
+2024-08-23 22:33:09,913 DEBUG:?:? - Download to C:\Users\Sudha\AppData\Local\Temp\1724432589913\installClientInfo.dat
+2024-08-23 22:33:09,913 DEBUG:?:? - File not exists or incomplete file C:\Users\Sudha\AppData\Local\Temp\1724432589913\installClientInfo.dat,  deleting and starting download from scratch.
+2024-08-23 22:33:09,913 DEBUG:?:? - http download: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-08-23 22:33:09,923 DEBUG:?:? - Checking error to find out what to do with it.
+k.e: UnknownHostException/NoRouteToHostException: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+	at k.l.l(Unknown Source)
+	at k.l.c(Unknown Source)
+	at k.b.m(Unknown Source)
+	at k.b.a(Unknown Source)
+	at k.b.h(Unknown Source)
+	at com.xilinx.xic.R.run(Unknown Source)
+2024-08-23 22:33:09,923 ERROR:?:? - UnknownHostException/NoRouteToHostException: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-09-08 19:03:24,890 DEBUG:?:? - data\dynamic_resource_bundle.properties, does not exist
+2024-09-08 19:03:25,088 DEBUG:?:? - Starting to listen
+2024-09-08 19:03:25,344 DEBUG:?:? - Could not auto detect proxy settings
+2024-09-08 19:03:25,354 DEBUG:?:? - XILINX_URL is set to  http://www.xilinx.com/direct/swhelp
+2024-09-08 19:03:25,354 DEBUG:?:? - Will download http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-09-08 19:03:25,364 DEBUG:?:? - Download to C:\Users\Sudha\AppData\Local\Temp\1725802405344\installClientInfo.dat
+2024-09-08 19:03:25,364 DEBUG:?:? - File not exists or incomplete file C:\Users\Sudha\AppData\Local\Temp\1725802405344\installClientInfo.dat,  deleting and starting download from scratch.
+2024-09-08 19:03:25,384 DEBUG:?:? - http download: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-09-12 12:01:15,037 DEBUG:?:? - data\dynamic_resource_bundle.properties, does not exist
+2024-09-12 12:01:15,267 DEBUG:?:? - Starting to listen
+2024-09-12 12:01:15,617 DEBUG:?:? - Could not auto detect proxy settings
+2024-09-12 12:01:15,627 DEBUG:?:? - XILINX_URL is set to  http://www.xilinx.com/direct/swhelp
+2024-09-12 12:01:15,637 DEBUG:?:? - Will download http://www.xilinx.com/direct/swhelp/installClientInfo.dat
+2024-09-12 12:01:15,637 DEBUG:?:? - Download to C:\Users\Sudha\AppData\Local\Temp\1726122675617\installClientInfo.dat
+2024-09-12 12:01:15,637 DEBUG:?:? - File not exists or incomplete file C:\Users\Sudha\AppData\Local\Temp\1726122675617\installClientInfo.dat,  deleting and starting download from scratch.
+2024-09-12 12:01:15,667 DEBUG:?:? - http download: http://www.xilinx.com/direct/swhelp/installClientInfo.dat
