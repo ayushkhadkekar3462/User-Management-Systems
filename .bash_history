@@ -40,3 +40,5 @@ git clone https://github.com/leighhalliday/mapbox-react-demo.git
 git clone https://github.com/leighhalliday/mapbox-react-demo.git
 git clone https://github.com/ayushkhadkekar3462/Bhusatyam_NGF.git
 git clone https://github.com/ayushkhadkekar3462/Bhusatyam_NGF.git
+git clone https://github.com/tericcabrel/spring-user-management.git
+git clone https://github.com/tericcabrel/spring-user-management.git
